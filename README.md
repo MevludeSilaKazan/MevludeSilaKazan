@@ -103,9 +103,7 @@ You can click the Preview link to take a look at your changes.
 
 If you are interested in collaboration or would like to learn more about my projects, feel free to reach out to me. You can find my contact information below.
 
-- Email
-
-: mevludesilakazan@outlook.com
+- Email: mevludesilakazan@outlook.com
 - LinkedIn: [linkedin.com/in/mevlüde-sıla-kazan-9b09a41b6](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B4dN6W5r6Q0%2BE5QLodNHUzw%3D%3D)
 
 This README provides a summary of my skills and experiences. For detailed information and projects, please explore this GitHub repository.
