@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - Programming Languages: HTML, CSS, JavaScript, Python, C#
 - Web Framework: Django
-- Database: MySQL, PostgreSQL, MongoDB
+- Database: SQL
 - Artificial Intelligence
 
 ## Experience and Projects 🌱 
